@@ -1,18 +1,16 @@
-[
-  {
-  "picture": "https://d2qp0siotla746.cloudfront.net/img/use-cases/profile-picture/template_3.jpg",
-  "name": "Julian Martinez",
-  "mail": "susana.garmendia@dalfonso.com",
-  "phone": 1544806208,
-  "program": "Orientación vocacional: Descubrí cuál es tu valor personal.",
-  "dni": 28456387,
-  "school": "Nuestra señora del Valle",
-  "reason": "Necesita orientación para elegir una carrera.",
-  "age": 17,
-  "adress": "Av. Córdoba 2445 piso 6 dpto C, CABA",
-  "user": 28456387,
-  "password": "******",
-  "mentee": false,
-  "id": 1,
+{
+   "picture": "https://d2qp0siotla746.cloudfront.net/img/use-cases/profile-picture/template_3.jpg",
+   "name": "Julian Martinez",
+   "mail": "susana.garmendia@dalfonso.com",
+   "phone": 1544806208,
+   "program": "Orientación vocacional: Descubrí cuál es tu valor personal.",
+   "dni": 28456387,
+   "school": "Nuestra señora del Valle",
+   "reason": "Necesita orientación para elegir una carrera.",
+   "age": 17,
+   "adress": "Av. Córdoba 2445 piso 6 dpto C, CABA",
+   "user": 28456387,
+   "password": "******",
+   "mentee": false,
+   "id": 1
 }
-]
